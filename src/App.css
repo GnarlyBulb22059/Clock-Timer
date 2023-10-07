@@ -1,0 +1,33 @@
+#container {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+#labels {
+    display: flex;
+    font-size: 2em;
+    margin-left: 350px;
+}
+
+#break-label {
+    justify-content: space-between;
+    padding: 2rem;
+    text-align: left;
+}
+
+#session-label {
+    justify-content: space-between;
+    padding: 2rem;
+    text-align: left;
+}
+
+#timer-label {
+    font-size: 2em;
+}
+
+button {
+    font-size: 1em;
+    padding: 0.6em 1.2em;
+}
